@@ -17,7 +17,7 @@ gem 'kaminari-bootstrap'
 
 
 # Use sqlite3 as the database for Active Record
-gem "sqlite3", "~> 2.1", group: :development
+gem "sqlite3", "~> 2.6", group: :development
 gem "pg", group: :production
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", ">= 5.0"
